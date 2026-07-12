@@ -55,7 +55,7 @@ A **rubāʿi** is a quatrain made of four **hemistichs** (مصرع), traditional
 
 | Property | Value |
 | --- | --- |
-| Deck name | `📥 zArchive::Khayyam` |
+| Deck name | `Khayyam` |
 | Note type | `Robayiat Khayyam - رباعیات خیام` |
 | Notes (quatrains) | **178** |
 | Cards | **712** (4 cards per note) |
@@ -83,9 +83,9 @@ From each note, Anki generates **4 cards** (`Card 1`–`Card 4`). Cards 1–3 bu
 
 Each card is color‑coded so lines are easy to distinguish once revealed:
 
-- Line 2 → **dark orange**
-- Line 3 → **yellow‑green**
-- Line 4 → **firebrick red**
+- Line 2 → **darkorange**
+- Line 3 → **yellowgreen**
+- Line 4 → **firebrick**
 
 A `metadata` footer always shows *«رباعی شماره N»* so you know which quatrain you are on.
 
@@ -104,7 +104,7 @@ The heart of this deck is a **progressive, line‑by‑line recall** method. Ins
 ### Card 2 — recall line 3 from lines 1–2
 
 - **Front:** illustration + line 1 + line 2 (orange), prompt *«مصرع سوم این رباعی چیست؟»*.
-- **Back:** line 3 in yellow‑green.
+- **Back:** line 3 in yellowgreen.
 
 ### Card 3 — recall line 4 (the punchline) from lines 1–3
 
@@ -151,7 +151,7 @@ The net effect: you don't just *recognize* Khayyām's quatrains — you can **re
 1. Install [Anki](https://apps.ankiweb.net/) (desktop) or AnkiDroid / AnkiMobile.
 2. Download `Khayyam.apkg` from this repository.
 3. In Anki: **File → Import** (or just double‑click the file) and select `Khayyam.apkg`.
-4. The deck `📥 zArchive::Khayyam` appears with all 712 cards and media ready to go.
+4. The deck `Khayyam` appears with all 712 cards and media ready to go.
 
 Study tips:
 
