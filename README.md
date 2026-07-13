@@ -17,7 +17,6 @@ Each quatrain is turned into a small set of spaced‑repetition cards that walk 
 - [Why this design helps you memorize](#why-this-design-helps-you-memorize)
 - [Installing and studying](#installing-and-studying)
 - [Rebuilding the deck from source](#rebuilding-the-deck-from-source)
-- [Credits & license](#credits--license)
 
 ---
 
@@ -171,13 +170,6 @@ The deck can be regenerated from the assets in this repo:
 
 To rebuild, create a note type with the 7 fields listed above and the 4 card templates (progressive recall + audio review), import the CSV, and attach the media by number (`khayyam-001` → quatrain 1, etc.). The bundled `_vazir.ttf` provides the Persian font used for the RTL layout.
 
----
-
-## Credits & license
-
-- **Poetry:** the *Rubāʿiyāt* of Omar Khayyām (عمر خیام), Foroughi edition — public‑domain classical Persian text.
-- **Illustrations & audio:** produced for this deck to give each quatrain a unique visual and spoken anchor.
-- **Font:** [Vazir](https://github.com/rastikerdar/vazir-font) (bundled as `_vazir.ttf`).
 
 This is a public, freely shareable study resource. If you improve the text, images, or audio, contributions are welcome via pull request.
 
